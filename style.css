@@ -1,0 +1,59 @@
+body {
+  background-color:#e5e6e8;
+	
+}
+html {
+  font-family: sans-serif;
+}
+
+
+header{
+	background-color:#66CCFF;
+	font-family:sans-serif;
+}
+
+nav ul{
+	
+	list-style-type: none;
+	
+}
+
+h1 {
+  color: #664a64; /* custom color vailet */
+  margin-left: 0.8rem;
+  text-align: center;
+}
+
+h3 {
+  color: #664a64; /* custom color vailet */
+  margin-left: 0.8rem;
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+	text-align: center;
+	
+}
+
+
+
+iframe {
+  display:block;
+  margin:auto;
+}
+
+
+
+
+
+footer{
+	background-color:#d5dfef;
+	font-family:sans-serif;
+	clear: both;
+	
+}
