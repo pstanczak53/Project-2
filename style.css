@@ -30,6 +30,20 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  color: #664a64; /* custom color vailet */
+  margin-left: 0.8rem;
+  text-align: center;
+}
+
+
+
+
+s
+
+
+
+
 img {
     display: block;
     margin: 0 auto;
@@ -45,6 +59,15 @@ p{
 iframe {
   display:block;
   margin:auto;
+}
+
+ul {
+width: 90%; 
+    list-style-type:none;
+    margin:auto;
+    padding:0;
+    position:relative;
+    left:30%;
 }
 
 
