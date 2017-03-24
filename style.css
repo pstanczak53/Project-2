@@ -99,7 +99,10 @@ div #page-wrapper {
 	
 	width: 700px;
 	height; 800px
-	margin:  auto;
+	
+	 
+	float: left;
+	margin: 0 20px;
 
 
 }
