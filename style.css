@@ -79,7 +79,7 @@ div #page-wrapper {
 
 
 
-div #main-content {
+section #main-content {
 	
 	background-color: #ffe6e6;
 	float: center;
@@ -89,6 +89,21 @@ div #main-content {
 
 
 }
+
+div #main {
+	
+	background-color: #ffe6e6;
+	float: center;
+	width: 700px;
+	height; 800px
+	margin: 0 auto;
+
+
+}
+
+
+
+
 
 
 
