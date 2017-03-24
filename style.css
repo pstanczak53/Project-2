@@ -68,9 +68,13 @@ html {
 
 #page-wrapper {
 	
-		
+	display:block;
+	
+	background-color: #ffffff;	
+	
+	
 	max-width: 960px;
-	background-color:red;	
+	
 	margin: 0 auto;
 	
 	
