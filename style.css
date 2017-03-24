@@ -92,7 +92,9 @@ div #page-wrapper {
 
 }
  #main {
-	
+	 
+	display:block;
+        text-align:center;
 	background-color: #ffe6e6;
 	float: center;
 	width: 700px;
