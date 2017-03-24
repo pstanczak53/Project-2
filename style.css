@@ -67,10 +67,12 @@ html {
 
 div #page-wrapper {
 	
-	position: absolute; 	
+		
 	max-width: 960px;
 	background-color:red;	
-	margin: 20 auto;
+	margin-left: auto;
+	margin-right: auto;
+	
 	
 	
 }
