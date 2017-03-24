@@ -72,8 +72,7 @@ div #page-wrapper {
 		
 	max-width: 960px;
 	background-color:red;	
-	margin-left: 200px;
-	margin-right: auto;
+	margin: 0 auto;
 	
 	
 	
@@ -87,7 +86,7 @@ div #main-content {
 	float: center;
 	width: 700px;
 	height; 800px
-	margin-left: 200px;
+	margin: 0 auto;
 
 
 }
