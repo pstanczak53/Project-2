@@ -84,7 +84,10 @@ div #page-wrapper {
 	float: center;
 	width: 700px;
 	height; 800px
-	margin: 0 auto;
+	
+	margin-left: auto;
+        margin-right: auto;
+	
 
 
 }
