@@ -67,6 +67,7 @@ html {
 
 div #page-wrapper {
 	
+	position: absolute; 	
 	width: 960px;
 	background-color:red;	
 	margin: 20 auto;
